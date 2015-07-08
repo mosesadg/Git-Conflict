@@ -1,2 +1,1 @@
-This is a test of git conflicts.
-Ruby is hard.
+Git test.
